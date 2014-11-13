@@ -20,5 +20,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "moment": "~2.8.3",
+    "moment-timezone": "~0.2.5"
+  }
 }
