@@ -1,0 +1,24 @@
+{
+  "name": "Astrojs",
+  "version": "0.0.1",
+  "authors": [
+    "Tom G Varik <tgvarik@me.com>"
+  ],
+  "description": "A library of helpful astronomical tools",
+  "main": "Astro.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "astronomy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TGVarik/Astrojs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
