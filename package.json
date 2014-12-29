@@ -1,0 +1,29 @@
+{
+  "name": "Astrojs",
+  "version": "0.0.1",
+  "description": "A library of helpful astronomical tools",
+  "main": "Astro.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TGVarik/Astrojs.git"
+  },
+  "keywords": [
+    "astronomy"
+  ],
+  "author": "Tom G Varik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TGVarik/Astrojs/issues"
+  },
+  "homepage": "https://github.com/TGVarik/Astrojs",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
