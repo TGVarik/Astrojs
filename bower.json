@@ -22,10 +22,5 @@
     "tests"
   ],
   "dependencies": {
-    "moment": "~2.8.3",
-    "moment-timezone": "~0.2.5",
-    "d3": "~3.4.13",
-    "jquery": "~2.1.1",
-    "datatables": "~1.10.4"
   }
 }
